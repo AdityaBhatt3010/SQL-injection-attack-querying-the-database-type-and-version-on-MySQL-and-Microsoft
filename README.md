@@ -4,6 +4,8 @@
 
 This lab contains a **UNION-based SQL injection** vulnerability inside the category filter. By testing the number of columns and identifying which ones accept text values, we can extract the backend database version using `@@version`.
 
+[Lab Link](https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data) <br/>
+
 ![Cover](SQLi/Cover.jpeg)
 
 ---
